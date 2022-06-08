@@ -70,7 +70,7 @@
   margin-top: 40px;
   font-size: 15px;
   width: 328px;
-  line-height: 18px;
+  line-height: 18.29px;
   margin-bottom: 40px;
 }
 .price-card__options-list {
@@ -139,8 +139,6 @@ body {
   flex-direction: row;
   color: #ffffff;
   width: 1440px;
-  margin-left: auto;
-  margin-right: auto;
   padding: 65px 132px 115px 132px;
 }
 
