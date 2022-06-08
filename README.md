@@ -1,6 +1,6 @@
 # Layout Sample Project
 
-## [Site link]()
+## [Site link](https://github.com/HomeItsGood/second)
 
 
 Layout desktop version
