@@ -2,7 +2,7 @@
 
 ### [Site link](https://github.com/HomeItsGood/my__first-project/tree/main)
 ### [Netlify](https://relaxed-sfogliatella-89d0a5.netlify.app)
-
+# Layout_supports-only-desktop(1440px)
 
 ### The tech stack is:
 
