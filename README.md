@@ -1,9 +1,8 @@
 # Layout Sample Project
 
-## [Site link](https://github.com/HomeItsGood/second)
+### [Site link](https://github.com/HomeItsGood/my__first-project/tree/main)
+### [Netlify](https://relaxed-sfogliatella-89d0a5.netlify.app)
 
-
-Layout desktop version
 
 ### The tech stack is:
 
@@ -15,4 +14,4 @@ Layout desktop version
 
 ### Author
 
-- **Ivanov Sergey**
+- **Sergey Ivanov**
